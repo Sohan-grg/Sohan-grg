@@ -1,5 +1,5 @@
 ## Hi there 👋
-Hi My name is Sohan Gurung. I Study in islington college.
+My name is Sohan Gurung. I Study in islington college.
 I am currenntly learning AI course. 
 
 `print("I am proficent in Python")`
