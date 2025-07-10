@@ -1,9 +1,12 @@
 ## Hi there 👋
+Hi My name is Sohan Gurung. I Study in islington college.
+I am currenntly learning AI course. 
+
+`print("I am proficent in Python")`
+
+- You can reach me out on [Linkedin](www.linkedin.com/in/sohan-gurung-922966371)
 
 <!--
-**Sohan-grg/Sohan-grg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
